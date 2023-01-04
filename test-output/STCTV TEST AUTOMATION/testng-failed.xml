@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [STCTV TEST AUTOMATION]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="STCTV TEST CASES(failed)">
+    <classes>
+      <class name="com.stctv.qa.testcases.LoginPageTest">
+        <methods>
+          <include name="tearDown"/>
+          <include name="validateLitePackagePriceForKWD"/>
+          <include name="setUp"/>
+          <include name="validateLitePackagePriceForBHD"/>
+          <include name="validatepremiumPackagePriceForKWD"/>
+          <include name="validatepremiumPackagePriceForSAR"/>
+          <include name="validateLitePackagePriceForSAR"/>
+          <include name="validatepremiumPackagePriceForBHD"/>
+        </methods>
+      </class> <!-- com.stctv.qa.testcases.LoginPageTest -->
+    </classes>
+  </test> <!-- STCTV TEST CASES(failed) -->
+</suite> <!-- Failed suite [STCTV TEST AUTOMATION] -->

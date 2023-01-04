@@ -1,0 +1,18 @@
+Test case Details:
+
+1.validate the title of the application in login page
+2.Validate whether we can select country Bahrain
+3.Validate whether we can select country KSA
+4.Validate whether we can select country Kuwait
+5.Validate whether the SAR Price displayed for lite package is correct
+6.Validate whether the SAR Price displayed for Classic package is correct
+7.Validate whether the SAR Price displayed for Premium package is correct
+8.Validate whether the KWD Price displayed for lite package is correct
+9.Validate whether the KWD Price displayed for Classic package is correct
+10.Validate whether the KWD Price displayed for Premium package is correct
+11.Validate whether the BHD Price displayed for lite package is correct
+12.Validate whether the BHD Price displayed for Classic package is correct
+13.Validate whether the BHD Price displayed for Premium package is correct
+14.Validate the subscription type is lite
+15.Validate the subscription type is Classic
+16.Validate the subscription type is Premium

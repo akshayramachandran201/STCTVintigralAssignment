@@ -1,0 +1,46 @@
+2023-01-04 13:54:08,552  INFO [main] LoginPageTest:54 - login page title is ---------->stc tv - Watch Online movies, series & live TV | Enjoy Free Trial
+2023-01-04 13:54:29,116  INFO [main] LoginPageTest:330 - Actual Subscription Type is :classic
+2023-01-04 13:54:29,116  INFO [main] LoginPageTest:332 - Expected Subscription Type is ----->classic
+2023-01-04 13:54:29,116  INFO [main] LoginPageTest:342 - Test case execution passed
+2023-01-04 13:54:49,847  INFO [main] LoginPageTest:310 - Actual Subscription Type is :lite
+2023-01-04 13:54:49,847  INFO [main] LoginPageTest:311 - Expected Subscription Type is ----->lite
+2023-01-04 13:54:49,847  INFO [main] LoginPageTest:321 - Test case execution passed
+2023-01-04 13:55:10,021  INFO [main] LoginPageTest:352 - Subscription Type is :premium
+2023-01-04 13:55:10,022  INFO [main] LoginPageTest:353 - Expected Subscription Type is ----->premium
+2023-01-04 13:55:10,022  INFO [main] LoginPageTest:363 - Test case execution passed
+2023-01-04 13:55:33,634  INFO [main] LoginPageTest:271 - Actual CLassic Package price is: 3.0BHD
+2023-01-04 13:55:33,634  INFO [main] LoginPageTest:272 - Expected Price is ----->3.0
+2023-01-04 13:55:33,634  INFO [main] LoginPageTest:282 - Test case execution passed
+2023-01-04 13:56:53,046  INFO [main] LoginPageTest:210 - Actual Classic Package price is: 2.5KWD
+2023-01-04 13:56:53,046  INFO [main] LoginPageTest:211 - Expected Price is ----->2.5
+2023-01-04 13:56:53,047  INFO [main] LoginPageTest:221 - Test case execution passed
+2023-01-04 13:57:16,586  INFO [main] LoginPageTest:150 - CLassic Package price is: 25.0SAR
+2023-01-04 13:57:16,586  INFO [main] LoginPageTest:151 - Expected price is ----->25.0
+2023-01-04 13:57:16,587  INFO [main] LoginPageTest:161 - Test case execution passed
+2023-01-04 13:57:41,900  INFO [main] LoginPageTest:68 - Actual Country is ----->bahrain
+2023-01-04 13:57:41,900  INFO [main] LoginPageTest:70 - Expected Country is ----->bahrain
+2023-01-04 13:57:41,901  INFO [main] LoginPageTest:80 - Test case execution passed
+2023-01-04 13:58:18,467  INFO [main] LoginPageTest:88 - Actual Country is ----->ksa
+2023-01-04 13:58:18,467  INFO [main] LoginPageTest:90 - Expected Country is ----->ksa
+2023-01-04 13:58:18,468  INFO [main] LoginPageTest:100 - Test case execution passed
+2023-01-04 13:58:25,363  INFO [main] LoginPageTest:109 - Actual Country is ----->kuwait
+2023-01-04 13:58:25,363  INFO [main] LoginPageTest:110 - Expected Country is ----->ksa
+2023-01-04 13:58:25,363  INFO [main] LoginPageTest:120 - Test case execution passed
+2023-01-04 13:59:02,967  INFO [main] LoginPageTest:251 - Actual Lite Package price is: 2.0BHD
+2023-01-04 13:59:02,967  INFO [main] LoginPageTest:252 - Expected Price is ----->2.0
+2023-01-04 13:59:02,968  INFO [main] LoginPageTest:262 - Test case execution passed
+2023-01-04 13:59:11,211  INFO [main] LoginPageTest:190 - Actual Lite Package price is: 1.2KWD
+2023-01-04 13:59:11,211  INFO [main] LoginPageTest:191 - Expected price is ----->1.2
+2023-01-04 13:59:11,211  INFO [main] LoginPageTest:201 - Test case execution passed
+2023-01-04 14:00:02,205  INFO [main] LoginPageTest:130 - Actual Lite Package price is: 15.0SAR
+2023-01-04 14:00:02,205  INFO [main] LoginPageTest:131 - Expected price is ----->15.0
+2023-01-04 14:00:02,205  INFO [main] LoginPageTest:141 - Test case execution passed
+2023-01-04 14:00:31,135  INFO [main] LoginPageTest:290 - Actual Premium Package price is: 6.0BHD
+2023-01-04 14:00:31,135  INFO [main] LoginPageTest:291 - Expected Price is ----->6.0
+2023-01-04 14:00:31,135  INFO [main] LoginPageTest:301 - Test case execution passed
+2023-01-04 14:00:39,673  INFO [main] LoginPageTest:231 - Actual Premium Package price is: 4.8KWD
+2023-01-04 14:00:39,673  INFO [main] LoginPageTest:232 - Expected Price is ----->4.8
+2023-01-04 14:00:39,673  INFO [main] LoginPageTest:242 - Test case execution passed
+2023-01-04 14:01:16,013  INFO [main] LoginPageTest:170 - Premium Package price is: 60.0SAR
+2023-01-04 14:01:16,013  INFO [main] LoginPageTest:171 - Expected price is ----->60.0
+2023-01-04 14:01:16,014  INFO [main] LoginPageTest:181 - Test case execution passed
